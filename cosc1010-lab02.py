@@ -1,6 +1,6 @@
 # Tyler Camphouse
 # UWYO COSC 1010
-# 9/18/2024
+# 9/16/2024
 # Lab 02 
 # Lab Section: 13
 # Sources, people worked with, help given to: 
